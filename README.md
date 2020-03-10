@@ -1,7 +1,7 @@
 # passwordGenerator
 Programa escrito en python que genera una lista de 15 contraseñas y las guarda en un archivo "passwords.txt".
 Cada contraseña está compuesta por 10 caracteres. Tiene al menos una mayúscula, una minúscula y 3 números. Se hace uso del módulo secrets para generarlas
-de forma aleatoria.
+de forma aleatoria y segura.
 
 Requisitos:
 Python >= 3.6
